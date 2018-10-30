@@ -5,6 +5,7 @@ Official Repository for Hacktoberfest 2k17 NITK Edition meetup conducted at NITK
 ## CONTRIBUTING
 
 * This repository is for the NITK Hacktoberfest Meetup for the year 2k17. It's basic aim is to get people started with Open Source Contribution. 
+
 * To get started take a look at our [CONTRIBUTING doc](CONTRIBUTING.md) for more information.
 
 ## License
